@@ -1,0 +1,29 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "content": "HTML is easy",
+      "important": false
+    },
+    {
+      "id": "2",
+      "content": "Browser can execute only JavaScript",
+      "important": true
+    },
+    {
+      "id": "3",
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": false
+    },
+    {
+      "id": "48c1",
+      "content": "Axios makes life easy no need to specify everything in POST request",
+      "important": false
+    },
+    {
+      "id": "9d55",
+      "content": "It sets the content type itself in case of post request as we send JSON object",
+      "important": true
+    }
+  ]
+}
